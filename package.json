@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "jquery": "^3.2.1"
+    "jquery": "^3.2.1",
+    "jquery-ui-dist": "^1.12.1"
   },
   "devDependencies": {
     "bootstrap-sass": "^3.3.7",
